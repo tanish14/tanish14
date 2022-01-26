@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <p>
 🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
 </p><p>
-📎 In my free time I love to learn about latest technologies and work on my logic building skills.
+📎 In my free time I love to learn about latest technologies and work on my logic building skills and read books.
 </p><p>
 📚 Self Motivation + Commitment + Technology + Ideas + Team Player + Optimism - Motto of my life!
 </p><p>
@@ -28,24 +28,24 @@ You can click the Preview link to take a look at your changes.
 <p>
 🤔 Exploring newer technologies and developing software solutions and quick hacks.</p>
 <p>
-☕ Coffee can be the ultimate solution for any stress. Coffee <-> Code </p>
+☕ Coffee can be the ultimate solution for any stress. Coffee -> Code </p>
   
 <h3>🛠 Tech Stack</h3>
 <p>
-- 💻  &nbsp; Data Structures & Algorithms | C++ | Java | Natural Language Processing (NLP)  
+- 💻  &nbsp; Data Structures & Algorithms | C++ | JavaScript 
   </p><p>
-- 🌐  &nbsp; HTML | CSS | JavaScript
+- 🌐  &nbsp; React | Nodejs | Reduxjs | Jestjs
   </p><p>
 - 🐍  &nbsp; Machine Learning | Python | Jupyter | OpenCV
   </p><p>
-- ☁  &nbsp; Microsoft Azure | Operating System | Database | SQL
+- ☁  &nbsp; AWS | Operating System | Database | SQL | System Design
   </p><p>
-- 🔧  &nbsp; Visual Studio code | Sublime | PyCharm | Anaconda | Git | Github
+- 🔧  &nbsp; VS code | Sublime | PyCharm | Anaconda | Docker | Git | Github 
   </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
 <img width="470px" height="180px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nistha-tech&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 <img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=Nistha-tech&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 
-</p>
+</p> -->
